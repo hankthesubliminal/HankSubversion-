@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <title>HankSubversion</title>
+
+    <!-- Change your site description: (It is shown in Google results) -->
+    <meta content="Hanks Ponderings" name="Hank's Subversions" />
+
+    <!-- Setting character encoding and viewport size. Do not remove. -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- FavIcon (small image in tab), change to any image you want: -->
+    <link href="spinningfrog.gif" rel="icon" type="image/x-icon" />
+
+    <!-- CSS: -->
+    <!-- You will have to change this to "../style.css" if this HTML file is in a subfolder, to "../../style.css" if this HTML file is in 2 subfolders, etc. -->
+    <link href="./style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <!-- The next line is a skip-to-content link for keyboard users. Do not remove it! -->
+    <a href="#content" id="skip-to-content-link">Skip to content</a>
+
+    <div class="layout">
+  
+      <!-- =============================================== -->
+      <!-- HEADER -->
+      <!-- =============================================== -->
+
+      <header>
+
+        <div class="header-content">
+	        <div style="text-align: center;" class="header-title">Did I mention I do Art?</div>
+	        
+        <p style="text-align: right; margin: 0;"><a href="/">Home</a></p>
+        <p style="margin: 0; height: 40px; background: url('linerr.gif') repeat-x center bottom;">
+        </p>
+        </div>
+      </header>
+
+	  
+        
+      <!-- =============================================== -->
+      <!-- LEFT SIDEBAR -->
+      <!-- =============================================== -->
+
+      <aside class="left-sidebar">
+        <img src="painter.gif" alt="Painter">
+        <p style="text-align: center;">this is me painting^</p>
+        <img src="world.gif" alt="World">
+
+    </aside>
+	
+	  
+      <!-- =============================================== -->
+      <!-- RIGHT SIDEBAR -->
+      <!-- =============================================== -->
+
+      <aside class="right-sidebar">
+	  
+        
+        <!-- NAVIGATION -->
+        <nav>
+          <div class="sidebar-title">Cool Stuff</div>
+          <ul>
+            <li><a href="/music">Music</a></li>
+            <li><a href="/Art">Art</a></li>
+            <li><a href="/Arrg">Arrg</a></li>
+            <li><a href="/Fred">Fred</a></li>
+            <li><a href="/Chatroom">Chatroom</a></li>
+            <li><a href="/Resources">Resources</a></li>
+            <li><a href="/PersonalJournal">Personal Journal</a></li>
+          </ul>
+        </nav>
+        <img src="mallord.gif" alt="mallord">
+        <p>Mallard is Mallord^</p>
+        <img src="pintor.gif" alt="paint gif" style="transform: scale(2); transform-origin: top center; display: block; margin: 0 auto;">
+      </aside>
+	`
+      <main id="content"> <!-- Do NOT remove the ID here -->
+
+        <!-- =============================================== -->
+        <!-- MAIN CONTENT -->
+        <!-- =============================================== -->
+
+
+  <section>
+
+          <h1>Art</h1>
+          <p>Art to me is so much more then exspression. Its a way to show peices of you to the world.
+            I've always liked making stuff thats diffrent, a bit out of the box. I've been drawn to mediums 
+            like videoography, pixel art, minecraft builds, ciramics, and watercolor. I think everyone 
+            has some big and amazing creative peice or project in them. All they have to do is pickup a 
+            brush or a pencil and start making. I hope to one day have a gallery of my art, but for now,
+             you can see some of it here on this website. <img src="paint.gif" alt="paint gif">
+             <img src="nightstar.gif" alt="nightstar gif">
+          </p>
+          <h1>Some of My Art</h1>
+          
+          <li><h2>9/7/2025</h2>
+            <p>simple sketch of a fish fishermen</p>
+            <img src="/art/9-7-25fishman.jpg" alt="Fisherman Sketch"></li>
+
+          <li><h2>10/9/2025</h2>
+            <p> A little sketch of my WOW character</p>
+            <img src="/art/10-9-25dwarf.jpg" alt="WOW Character Sketch"></li>
+          
+          <li><h2>11/12/25</h2>
+          <p>Two hand sketches in one day. really tried to show movement, think it turned out ok!</p>
+        <img src="/art/11-13-25handgun.jpg" alt="Sketch 1">
+        <img src="/art/11-13-25handgun1.jpg" alt="Sketch 2"></li>
+
+          <li><h2>11/15/2025</h2>
+          <p> this was one of my first watercolor paintings, I think it turned out pretty well!</p>
+        <img src="/art/11-10-25flowers.jpg" alt="Watercolor Painting 1"></li>
+        
+        <li><h2>9/22/2025</h2>
+        <p> This is a weird ciramic head i made with a little cigar
+        </p>
+        <img src="/art/9-22-25goober.jpg" alt="Ceramic Head"></li>  
+        </li>
+        
+        <li><h2>11/14-15/2026</h2>
+        <p>This is a cool before and after of 3 peices I made. I think the glaze looks super cool.
+          </p>
+          <p>Before:</p>
+        <img src="/art/2-9-26b4fire.jpg" alt="Ceramics 1">
+        <p>After:</p>
+        <img src="/art/2-10-26afterfiring.jpg" alt="Ceramics 2"></li>
+          
+        <li><h2>4/4/2026</h2>
+          <p> Here's two perices that came out of <a href="https://www.ehow.com/info_12106061_difference-between-low-fire-high-fire-pottery.html">high-fire</a>
+          on friday, but I'm just now getting them.</p>
+          <img src="/art/4-4-26bluelagoon.jpg" alt="High Fire Ceramic 1">
+          <p> The glaze used was "Blue Lagoon", the fading on the top came from what i think was the lotion on my hands after the bisque firing,
+            but I think the fading on the lip looks kinda cool. It's still sealed and functional.</p>
+          <p> This one's a bit larger, glaze is called "Temmoku". Kinda looks like wood.</p>
+          <img src="/art/4-4-26temmoku.jpg" alt="High Fire Ceramic 2">
+          </li>
+         
+         <p style="text-align: center;"">
+         <img src="error.gif" alt="end gif"
+          <strong> THATS ALL FOLKS! </strong>
+         <img src="error.gif" alt="end gif">
+         </p>
+
+      </section>
+  </main>
+
+
+      <!-- =============================================== -->
+      <!-- FOOTER -->
+      <!-- =============================================== -->
+
+      <footer style="display: flex; justify-content: space-between; align-items: center; gap: 10px; flex-wrap: wrap;">
+         <div style="text-align: left;">
+          <a href="https://99gifshop.neocities.org/"><img src="99gif.png" alt="Credit"></a>
+          <img src="bestvieweddesktop.gif" alt="Best viewed on desktop">
+          <img src="firefox.gif" alt="firefox gif">
+          <img src="eattherich.gif" alt="eat the rich">
+          <img src="neocitiesbutton1.gif" alt="neocities gif">
+        </div>
+        <div style="text-align: center;">
+          <a><img src="phyduck.gif" width="32" height="32" alt="phyduck"></a>
+        <script data-goatcounter="https://bigman.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+        </div>
+        <div style="text-align: right;">
+          <a href="https://discord.com/users/691362443368202281"><img src="discord.ico" width="32" height="32"></a>
+          <a href="mailto:fuhdih69@gmail.com"><img src="email.ico" width="32" height="32"></a>
+          <a href="https://www.slsknet.org/news/node/1"><img src="soulseek.ico" width="32" height="32"></a>
+          <a href="https://hanks.atabook.org/"><img src="guestbook.gif"></a>
+        </div>
+      </footer>
+  </body>
+</html>
